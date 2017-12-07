@@ -112,8 +112,8 @@ public class FlowTest {
             allocationsServerUrl("/allocations"), jsonMapBuilder()
                 .put("projectId", createdProjectId)
                 .put("userId", createdUserId)
-                .put("firstDay", "2017-11-17")
-                .put("lastDay", "2017-11-18")
+                .put("firstDay", "2017-12-06")
+                .put("lastDay", "2017-12-07")
                 .build()
         );
 
