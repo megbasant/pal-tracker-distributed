@@ -20,7 +20,9 @@ import java.util.TimeZone;
     "io.pivotal.pal.tracker.accounts",
     "io.pivotal.pal.tracker.restsupport",
     "io.pivotal.pal.tracker.projects",
-    "io.pivotal.pal.tracker.users"
+    "io.pivotal.pal.tracker.users",
+        "io.pivotal.pal.tracker.registration"
+
 })
 
 public class App {
