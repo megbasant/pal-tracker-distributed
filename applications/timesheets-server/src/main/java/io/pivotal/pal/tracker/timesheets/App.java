@@ -18,7 +18,6 @@ import java.util.TimeZone;
 
 @EnableWebSecurity
 @EnableResourceServer
-
 @EnableCircuitBreaker
 @EnableEurekaClient
 @SpringBootApplication
